@@ -4,9 +4,7 @@ export const config = {
    */
 
   // 公众号APP_ID
-  APP_ID: "
-wxcb4e07335004cb15 ",
-
+  APP_ID: "wxcb4e07335004cb15 ",
   // 公众号APP_SECRET
   APP_SECRET: "1d5c3b728f47ce02d557af7186867792",
 
@@ -56,8 +54,8 @@ wxcb4e07335004cb15 ",
       name: "老婆1",
       id: "",
       useTemplateId: "",
-      province: "",
-      city: "",
+      province: "云南",
+      city: "昆明",
       horoscopeDate: '',
       horoscopeDateType: '',
       openUrl: "https://wangxinleo.cn",
